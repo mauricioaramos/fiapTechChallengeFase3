@@ -1,0 +1,1 @@
+{"uuid":"8cddc657-4c86-40a1-b2bf-3d95b427ad2a","name":"shouldThrowExceptionWhenCadastrarClienteIsCalledWithNullInput()","children":["c99ecfd0-d630-4fd8-9bdb-96cd2e2970e6"],"befores":[],"afters":[],"start":1711458755023,"stop":1711458755095}

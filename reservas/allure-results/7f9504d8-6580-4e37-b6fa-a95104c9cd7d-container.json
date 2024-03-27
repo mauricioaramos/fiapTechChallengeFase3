@@ -1,0 +1,1 @@
+{"uuid":"7f9504d8-6580-4e37-b6fa-a95104c9cd7d","name":"shouldReturnNotFoundWhenBuscarClientePorIdIsCalledWithInvalidId()","children":["bdce941d-728d-416a-9816-6fc836635ca2"],"befores":[],"afters":[],"start":1711461316216,"stop":1711461316296}

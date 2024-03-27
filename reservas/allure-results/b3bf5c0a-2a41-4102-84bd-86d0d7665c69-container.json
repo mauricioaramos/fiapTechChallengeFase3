@@ -1,0 +1,1 @@
+{"uuid":"b3bf5c0a-2a41-4102-84bd-86d0d7665c69","name":"shouldReturnBadRequestWhenReservarRestauranteIsCalledWithInvalidReservaDto()","children":["b55164c5-560c-4045-ac8a-5fff0ad6ceb1"],"befores":[],"afters":[],"start":1711459409648,"stop":1711459409683}

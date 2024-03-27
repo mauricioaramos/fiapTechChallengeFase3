@@ -1,0 +1,1 @@
+{"uuid":"35af29af-0502-4078-b008-473b91266f26","name":"shouldReturnBadRequestWhenCadastrarClienteIsCalledWithInvalidInput()","children":["b9539bc1-9685-4f98-8a64-dc59294c21c8"],"befores":[],"afters":[],"start":1711403848806,"stop":1711403848896}

@@ -1,0 +1,1 @@
+{"uuid":"f7ebbcc3-93f4-4599-b757-39ec9a2b0492","name":"shouldThrowExceptionWhenBuscarRestaurantePorEnderecoIsCalledWithInvalidEndereco()","children":["ce52ed4c-b7b7-43ec-a549-a6c684b7c9c9"],"befores":[],"afters":[],"start":1711458847312,"stop":1711458847317}

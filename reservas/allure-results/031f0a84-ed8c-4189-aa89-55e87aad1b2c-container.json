@@ -1,0 +1,1 @@
+{"uuid":"031f0a84-ed8c-4189-aa89-55e87aad1b2c","name":"shouldReturnNotFoundWhenBuscarRestaurantePorTipoCozinhaIsCalledWithInvalidTipo()","children":["90f9a1ed-5dc6-4322-bbd0-297b94cda87d"],"befores":[],"afters":[],"start":1711461414704,"stop":1711461414743}
